@@ -3,7 +3,8 @@ Vulnerable_Echo_Server: A vulnerable Multi-Process Echo Server and its evil clie
 
 Overview:
 
-Please see [VulnerableEcho.png]  (https://github.com/sheisc/Vulnerable_Echo_Server/blob/master/VulnerableEcho.png) for what this program does. 
+* <b>Please see [VulnerableEcho.png]  (https://github.com/sheisc/Vulnerable_Echo_Server/blob/master/VulnerableEcho.png) for what this program does. </b>
+ 
 
 It has been tested on 32-bit Ubuntu 12.04, as a simple example to demonstrate
 (1) Buffer Overflow and its exploits
